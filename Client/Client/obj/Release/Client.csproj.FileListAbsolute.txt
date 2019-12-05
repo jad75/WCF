@@ -1,0 +1,110 @@
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\Client.dll.config
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\Client.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\Client.pdb
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\csc.exe
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\csc.exe.config
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\csc.rsp
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\csi.exe
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\csi.exe.config
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\csi.rsp
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.AppContext.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Console.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.IO.Compression.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.Claims.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.ValueTuple.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\vbc.exe
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\vbc.exe.config
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\vbc.rsp
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\obj\Release\Client.csprojAssemblyReference.cache
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\obj\Release\Client.csproj.CopyComplete
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\obj\Release\Client.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\Client\Client\obj\Release\Client.pdb
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\Client.dll.config
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\Client.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\Client.pdb
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\csc.exe
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\csc.exe.config
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\csc.rsp
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\csi.exe
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\csi.exe.config
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\csi.rsp
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.AppContext.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Console.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\vbc.exe
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\vbc.exe.config
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\vbc.rsp
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\obj\Release\Client.csprojAssemblyReference.cache
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\obj\Release\Client.csproj.CopyComplete
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\obj\Release\Client.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\Client\Client\obj\Release\Client.pdb

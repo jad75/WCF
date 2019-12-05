@@ -1,0 +1,27 @@
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfServiceHost.exe.config
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfServiceHost.exe
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfServiceHost.pdb
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfService.dll
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfService.pdb
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfServiceHost\obj\Debug\EmployeeWcfServiceHost.csprojAssemblyReference.cache
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfServiceHost\obj\Debug\EmployeeWcfServiceHost.csproj.CopyComplete
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfServiceHost\obj\Debug\EmployeeWcfServiceHost.exe
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfServiceHost\obj\Debug\EmployeeWcfServiceHost.pdb
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfServiceHost.exe.config
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfServiceHost.exe
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfServiceHost.pdb
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfService.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfService.pdb
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\obj\Debug\EmployeeWcfServiceHost.csprojAssemblyReference.cache
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\obj\Debug\EmployeeWcfServiceHost.csproj.CopyComplete
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\obj\Debug\EmployeeWcfServiceHost.exe
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\obj\Debug\EmployeeWcfServiceHost.pdb
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfServiceHost.exe.config
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfServiceHost.exe
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfServiceHost.pdb
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfService.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\bin\Debug\EmployeeWcfService.pdb
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\obj\Debug\EmployeeWcfServiceHost.csprojAssemblyReference.cache
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\obj\Debug\EmployeeWcfServiceHost.csproj.CopyComplete
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\obj\Debug\EmployeeWcfServiceHost.exe
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfServiceHost\obj\Debug\EmployeeWcfServiceHost.pdb

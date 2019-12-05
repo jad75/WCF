@@ -1,0 +1,15 @@
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfService\bin\Debug\EmployeeWcfService.dll
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfService\bin\Debug\EmployeeWcfService.pdb
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfService\obj\Debug\EmployeeWcfService.csprojAssemblyReference.cache
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfService\obj\Debug\EmployeeWcfService.dll
+C:\Users\jhrio\source\repos\EmployeeService\EmployeeWcfService\obj\Debug\EmployeeWcfService.pdb
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfService\bin\Debug\EmployeeWcfService.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfService\bin\Debug\EmployeeWcfService.pdb
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfService\obj\Debug\EmployeeWcfService.csprojAssemblyReference.cache
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfService\obj\Debug\EmployeeWcfService.dll
+C:\Users\jhrio\source\repos\WcfServiceAndWebClient\EmployeeService\EmployeeWcfService\obj\Debug\EmployeeWcfService.pdb
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfService\bin\Debug\EmployeeWcfService.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfService\bin\Debug\EmployeeWcfService.pdb
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfService\obj\Debug\EmployeeWcfService.csprojAssemblyReference.cache
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfService\obj\Debug\EmployeeWcfService.dll
+C:\Users\Jad Hrioua\Desktop\WcfServiceAndWebClient\EmployeeService\EmployeeWcfService\obj\Debug\EmployeeWcfService.pdb
