@@ -1,4 +1,4 @@
-﻿  using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -7,15 +7,18 @@ using System.Threading.Tasks;
 
 namespace EmployeeWcfService
 {
+    [KnownType(typeof(FullTimeEmployee))]
+    [KnownType(typeof(PartTimeEmployee))]
     [DataContract(Namespace = "http://pragimtech.com/Employee")]
     public class Employee
     {
         private int _id;
         private string _name;
+        //[DataMember(Order = 5)]
         private string _gender;
         private DateTime _dateOfBirth;
 
-        [DataMember(Order = 1)]
+        [DataMember(Order = 4)]
         public int Id
         {
             get { return _id; }
@@ -36,11 +39,16 @@ namespace EmployeeWcfService
             set { _gender = value; }
         }
 
-        [DataMember(Order = 4)]
+        [DataMember(Order = 1)]
         public DateTime DateOfBirth
         {
             get { return _dateOfBirth; }
             set { _dateOfBirth = value; }
         }
+        [DataMember(Order = 5)]
+        public EmployeeType Type { get; set; }
     }
 }
+
+
+

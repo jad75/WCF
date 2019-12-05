@@ -46,8 +46,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Employee.cs" />
+    <Compile Include="EmployeeType.cs" />
     <Compile Include="EmployeeWcfService.cs" />
+    <Compile Include="FullTimeEmployee.cs" />
     <Compile Include="IEmployeeWcfService.cs" />
+    <Compile Include="PartTimeEmployee.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

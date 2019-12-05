@@ -69,28 +69,34 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="WebForm1.aspx" />
-    <Content Include="Connected Services\EmployeeService\Client.EmployeeService.Employee.datasource">
+    <Content Include="Connected Services\EmployeeService1\Client.EmployeeService1.Employee.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Content>
-    <None Include="Connected Services\EmployeeService\EmployeeWcfService.wsdl" />
-    <None Include="Connected Services\EmployeeService\item.disco" />
-    <None Include="Connected Services\EmployeeService\configuration91.svcinfo" />
-    <None Include="Connected Services\EmployeeService\configuration.svcinfo" />
-    <None Include="Connected Services\EmployeeService\Reference.svcmap">
+    <None Include="Connected Services\EmployeeService1\EmployeeWcfService.wsdl" />
+    <None Include="Connected Services\EmployeeService1\item.disco" />
+    <None Include="Connected Services\EmployeeService1\configuration91.svcinfo" />
+    <None Include="Connected Services\EmployeeService1\configuration.svcinfo" />
+    <None Include="Connected Services\EmployeeService1\item3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\EmployeeService1\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
+    <Content Include="WebForm1.aspx" />
+    <None Include="Connected Services\EmployeeService1\item.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\EmployeeService1\item1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\EmployeeService1\item2.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <Content Include="Web.config" />
-    <None Include="Connected Services\EmployeeService\item1.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Connected Services\EmployeeService\item2.xsd">
-      <SubType>Designer</SubType>
-    </None>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Connected Services\EmployeeService\Reference.cs">
+    <Compile Include="Connected Services\EmployeeService1\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
@@ -105,9 +111,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\EmployeeService\item.xsd">
-      <SubType>Designer</SubType>
-    </None>
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Web.Debug.config">
@@ -121,7 +124,7 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadataStorage Include="Connected Services\EmployeeService\" />
+    <WCFMetadataStorage Include="Connected Services\EmployeeService1\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
